@@ -1,4 +1,4 @@
-<img align="center" src="https://www.wamasoftware.com/images/blog/Complete-Guide-To-Hire-Laravel-Developers-With-The-Right-Skill-Set.png" width="900" height="400" />
+<img align="center" src="github_cover_pipeline.png" width="900" height="400" />
 <h1 align="center">Hi 👋, I'm Agbeleye Victor</h1>
 <h3 align="center">A Laravel Backend developer.</h3>
 
