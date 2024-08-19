@@ -1,10 +1,8 @@
 <img align="center" src="github_cover_pipeline.png" width="900" height="400" />
-<h1 align="center">Hi 👋, I'm Agbeleye Victor</h1>
-<h3 align="center">A Laravel Backend developer.</h3>
+<h1 align="center">Hello, I'm Agbeleye Victor</h1>
+<h3 align="center">Ann aspiring Data Engineer.</h3>
 
-- 🌱 I’m currently learning **Solidity and Blockchain development**
-
-- 💬 Ask me about **Laravel, PHP, React, CSS.**
+- 🌱 I’m currently learning **Machine Learning and AI engineering**
 
 - 📫 How to reach me **victoragbeleye2@gmail.com**
 
