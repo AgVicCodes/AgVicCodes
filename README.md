@@ -1,6 +1,6 @@
 <img align="center" src="github_cover_pipeline.png" width="900" height="400" />
 <h1 align="center">Hello, I'm Agbeleye Victor</h1>
-<h3 align="center">Ann aspiring Data Engineer.</h3>
+<h3 align="center">An aspiring Data Engineer.</h3>
 
 - 🌱 I’m currently learning **Machine Learning and AI engineering**
 
