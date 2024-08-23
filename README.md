@@ -1,4 +1,4 @@
-<img align="center" src="github_cover.gif" width="1200" height="700" />
+<img align="center" src="github_cover.gif" width="900" height="500" />
 <h1 align="center">Hello, I'm Agbeleye Victor</h1>
 <h3 align="center">An aspiring Data Engineer.</h3>
 
