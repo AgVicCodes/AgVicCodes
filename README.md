@@ -1,7 +1,7 @@
 <img align="center" src="github_cover.gif" width="900" height="auto" />
 
 # About Me:
-Hello, I'm Victor Agbeleye, a data engineer transitioning from sortware development using PHP and PHP frameworks. I'm currently working on cloud based ETL projects.<br><br>Currently learning Apache Kafka, PyTorch, TensorFlow and more. 
+Hello, I'm Victor Agbeleye, a data engineer transitioning from software development using PHP and PHP frameworks. I'm currently working on cloud based ETL projects.<br><br>Currently learning Apache Kafka, PyTorch, TensorFlow and more. 
 
 
 ## 🌐 Socials:
