@@ -1,7 +1,7 @@
 <img align="center" src="github_cover.gif" width="900" height="auto" />
 
 # About Me:
-Hello, I'm Victor Agbeleye, a data engineer transitioning from software development using PHP and PHP frameworks. I'm currently working on cloud based ETL projects.<br><br>Currently learning Apache Kafka, PyTorch, TensorFlow and more. 
+Hello, I'm Victor Agbeleye, a data engineer transitioning from software development using PHP and PHP frameworks. I'm currently working on cloud-based ETL projects.<br><br>Currently learning Apache Kafka, PyTorch, TensorFlow and more. 
 
 
 ## 🌐 Socials:
@@ -55,6 +55,10 @@ Hello, I'm Victor Agbeleye, a data engineer transitioning from software developm
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+
+
+## Leetcode Stats
+<a href="https://leetcode.com/u/victor2357/"> <img src="https://leetcode-badge-showcase.vercel.app/api?username=victor2357&theme=onedark&border=no-border" /> </a> 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AgVicCodes&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
